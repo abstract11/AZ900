@@ -3,3 +3,40 @@ Therefore the Capital Expense is now Operating expense.
 It provides rapid elasticity to scle the system as per need.
 Per min, hour billing
 Reliability on data center and benfit from economies at scale.
+
+How much you vs cloud provider manages
+IAAS - Information as a Service
+OS, Application dev, Data
+Azure, AWS, goolge compute engine
+
+Scrnario: best for test and development, storage and backup, high performance computing and big data analysis
+
+
+PAAS - Platform as a service
+Application dev
+Heroku, Azzzzzure logic apps
+
+Scenario : business intelliegence or analyticd and also development framework. 
+
+SAAS - Software as a Service
+enerything managed by vendor
+office 365
+
+Scenario: access to applications without installion of softwares.
+
+
+cloud computing delpoyment models.
+1. Public cloud - hardware shared across clients
+365
+
+2. Private cloud - hardware owned by company
+azure stack
+
+3. Hybrid cloud - 
+azure stack
+
+4. Community cloud - Share in a group of clients (e.g govt. IT)
+Azure govt - this is for govt org onlyand hosted in seperate data centers
+e.g. 
+Azure china
+Azure germany 
