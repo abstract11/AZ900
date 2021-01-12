@@ -1,6 +1,16 @@
+Cloud Provider - Amazon, Google, Microsoft
+
+Services include:
+Compute power - such as Linux servers or web applications used for computation and processing tasks
+Storage - such as files and databases
+Networking - such as secure connections between the cloud provider and your company
+Analytics - such as visualizing telemetry and performance data
+
+
+
 Earlier there were data centers now there is cloud computing.
 Therefore the Capital Expense is now Operating expense.
-It provides rapid elasticity to scle the system as per need.
+It provides rapid elasticity to scale the system as per need.
 Per min, hour billing
 Reliability on data center and benfit from economies at scale.
 
